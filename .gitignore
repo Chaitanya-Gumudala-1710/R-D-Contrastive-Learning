@@ -1,5 +1,11 @@
 .history/
 .vscode/
+<<<<<<< HEAD
 models/
 plots/
 results/
+=======
+.models/
+.plots/
+.results/
+>>>>>>> ed5eedb396ef27ac8b6e0b026da1dab2f14133cb
